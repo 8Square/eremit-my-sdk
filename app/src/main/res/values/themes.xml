@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.EremitSampleApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <!-- Secondary brand color. -->
+        <item name="colorPrimaryDark">@color/purple_700</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

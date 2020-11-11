@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Eremit/eremit-android-2018/eremitnetwork/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/eightsquare/eremitsampleapp/EremitSampleApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/eightsquare/eremitsampleapp/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-toggle/app/src/main/res/layout/activity_labeled_switch.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-toggle/toggle/src/main/java/com/github/angads25/toggle/widget/LabeledSwitch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mzoom-location-tracking/app/src/main/java/com/tgsolutions/tracking/map/BaseMapActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mzoom-location-tracking/app/src/main/java/com/tgsolutions/tracking/view/locationregistration/LocationRegistrationFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/dynamicjsonlayout/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/dynamicjsonlayout/src/main/java/com/app/dynamicjsonlayout/base/DynamicJsonBaseFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/dynamicjsonlayout/src/main/java/com/app/dynamicjsonlayout/utils/StringUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/dynamicjsonlayout/src/main/java/com/app/dynamicjsonlayout/utils/StringUtils.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitdemo/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitdemo/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitdemo/src/main/java/com/eightsquare/eremitdemo/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitnetwork/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitnetwork/proguard-rules.pro">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitnetwork/src/main/java/com/library/eightsquarei/NetworkApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitnetwork/src/main/java/com/library/eightsquarei/http/ApiService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitnetwork/src/main/java/com/library/eightsquarei/model/ApiResponseModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitnetwork/src/main/java/com/library/eightsquarei/model/UserInfo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitnetwork/src/main/java/com/library/eightsquarei/utils/CommonUtils.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitnetwork/src/main/java/com/library/eightsquarei/utils/EnvironmentManager.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitnetwork/src/main/java/com/library/eightsquarei/utils/NetworkConstants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitnetwork/src/main/java/com/library/eightsquarei/utils/string_loader/MyStringLoader.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/proguard-rules.pro">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/EremitApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/EremitSdk.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/base/BaseActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/base/BaseDialogFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/base/BaseFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/firebase/ERemitFirebaseMessagingService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/pinLib/managers/AppLockActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/utils/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/utils/kotlin/extensions/MyExt.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/utils/kotlin/extensions/ToastyExt.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/view/adapter/MyRecipientAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/view/adapter/MyRecipientChooseRecipientAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/view/adapter/MyTransactionAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/view/recipient/PersonalDetailFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/view/sendmoney/AdditionalInfoFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/view/sendmoney/SendMoneyFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/view/sendmoney/SendToFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/view/splash/SplashActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/java/com/app/mtaeremit/view/webView/WebViewBase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/eremitsdk/src/main/res/layout/ems_fragment_additional_info.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/OfficeProjects/eremit-android-2018/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
