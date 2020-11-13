@@ -24,7 +24,7 @@ Integration Steps
     }
 }
 ```
-2. Add the dependency in build.gradle(app)
+2. Add the dependency in your application module's build.gradle
 ```gradle
   dependencies {
    implementation('com.eightsquarei.eremit:eremitsdk:0.0.1-alpha2') {
@@ -34,7 +34,7 @@ Integration Steps
   }
 ```
 
-3. Add supported ndk architecture in build.gradle(app) and sync project
+3. Add supported NDK architecture in application module's build.gradle and sync project
 ```gradle
   android {
     defaultConfig {
@@ -76,7 +76,7 @@ Notes
    Use the link below to migrate.
      [https://developer.android.com/jetpack/androidx/migrate](https://developer.android.com/jetpack/androidx/migrate)
 
-2. Add below inside android block if Java 8 incompatible error or crash log `java.lang.BootstrapMethodError: Exception from call site #5 bootstrap method....`
+2. Add below inside in android block if Java 8 incompatible error or receive crash log `java.lang.BootstrapMethodError: Exception from call site #5 bootstrap method....`
 ```gradle
    compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
