@@ -83,12 +83,12 @@ Notes
         targetCompatibility JavaVersion.VERSION_1_8
    }
 ```
-4. If you receive `Manifest merger failed : Attribute application@.....` error during application build, add the code below in application block in `AndroidManifest.xml`.
+3. If you receive `Manifest merger failed : Attribute application@.....` error during application build, add the code below in application block in `AndroidManifest.xml`.
 ```xml
  tools:replace="android:icon,android:roundIcon,android:name"
 ```
 
-5. Use below steps to integrate firebase in your application
+4. Use below steps to integrate firebase in your application
  ```
  1. Add below inside your project's build.gradle
      buildscript < dependencies
