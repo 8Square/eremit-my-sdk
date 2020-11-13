@@ -1,5 +1,5 @@
-# Eremit Sdk (Malaysia)
-This is a EremitSdk(Malaysia) sample application. 
+# Eremit Malaysia SDK
+This is a Eremit Malaysia SDK sample application. 
 
 Requirements
 ============
@@ -47,7 +47,13 @@ Integration Steps
 
 4. Integrate firebase in your application, reference: [https://firebase.google.com/docs/android/setup](https://firebase.google.com/docs/android/setup) or follow #5 from below Notes.
 
-5. Start SDK by
+5. Extend 'EremitApplication' in your application class. And include application class in manifest.
+```kotlin
+    class YourApplication : EremitApplication() {}
+```
+EremitApplication extends MultiDexApplication.
+
+6. Start SDK by
 ```kotlin
    EremitSdk.Builder()
             .apiKey("api_key_here")
@@ -61,11 +67,6 @@ Integration Steps
     2. `EnvType.UAT`
     3. `EnvType.PREPROD`
     4. `EnvType.PROD`
-6. Extend 'EremitApplication' for project application as below. 
-```kotlin
-    class YourApplication : EremitApplication() {}
-```
-EremitApplication is multidex application.
 
   
 Notes
@@ -75,20 +76,14 @@ Notes
    Use the link below to migrate.
      [https://developer.android.com/jetpack/androidx/migrate](https://developer.android.com/jetpack/androidx/migrate)
 
-2. Add the code below in project's gradle.properties to enable 
-```gradle
-  android.useAndroidX=true
-  android.enableJetifier=true
-```
-
-3. Add below inside android block if Java 8 incompatible error
+2. Add below inside android block if Java 8 incompatible error or crash log `java.lang.BootstrapMethodError: Exception from call site #5 bootstrap method....`
 ```gradle
    compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
    }
 ```
-4. If you receive “Manifest merger failed” error during application build, add the code below in application block.
+4. If you receive `Manifest merger failed : Attribute application@.....` error during application build, add the code below in application block.
 ```xml
  tools:replace="android:icon,android:roundIcon,android:name"
 ```
