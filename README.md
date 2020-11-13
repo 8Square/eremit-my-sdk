@@ -1,5 +1,5 @@
 # Eremit Malaysia SDK
-This is a Eremit Malaysia SDK sample application. 
+This is a Eremit Malaysia SDK sample application with integration steps as well.
 
 Requirements
 ============
