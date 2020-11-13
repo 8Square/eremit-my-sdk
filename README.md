@@ -47,7 +47,7 @@ Integration Steps
 
 4. Integrate firebase in your application, reference: [https://firebase.google.com/docs/android/setup](https://firebase.google.com/docs/android/setup) or follow #5 from below Notes.
 
-5. Extend 'EremitApplication' in your application class. And include application class in manifest.
+5. Extend `EremitApplication` in your application class. And include application class in manifest.
 ```kotlin
     class YourApplication : EremitApplication() {}
 ```
@@ -83,7 +83,7 @@ Notes
         targetCompatibility JavaVersion.VERSION_1_8
    }
 ```
-4. If you receive `Manifest merger failed : Attribute application@.....` error during application build, add the code below in application block.
+4. If you receive `Manifest merger failed : Attribute application@.....` error during application build, add the code below in application block in `AndroidManifest.xml`.
 ```xml
  tools:replace="android:icon,android:roundIcon,android:name"
 ```
