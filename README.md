@@ -14,8 +14,6 @@ Integration Steps
   ```gradle
   allprojects {
     repositories {
-        maven { url "https://github.com/omadahealth/omada-nexus/raw/master/release" }
-        maven { url "https://jitpack.io" }
         maven {
             url "http://maven.eightsquare.co:8081/artifactory/libs-release-local"
             credentials {
