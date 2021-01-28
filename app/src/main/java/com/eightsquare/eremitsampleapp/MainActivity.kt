@@ -12,7 +12,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val button = findViewById<Button>(R.id.startButton)
         button.setOnClickListener {
-            EremitSdk.Builder().apiKey("api_key_here").envType(EnvType.SIT).build().start(this)
+
+//            EremitSdk.Builder().apiKey("9cba3252-9eb2-4d16-98c5-e8b57412930c").envType(EnvType.SIT).build().start(this)
+            EremitSdk.Builder().apiKey(getString(R.string.api_key)).envType(EnvType.SIT).build().start(this)
         }
     }
 }

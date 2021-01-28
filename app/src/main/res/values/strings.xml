@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EremitSampleApp</string>
+    <string name="api_key"></string>   <!--  theme agent -->
+
 </resources>
