@@ -47,7 +47,7 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
-    implementation('com.eightsquarei.eremit:eremitsdk:0.0.1-alpha16') {
+    implementation('com.eightsquarei.eremit:eremitsdk:0.0.1-alpha18') {
         exclude group: 'com.google.zxing'
         exclude group: 'org.apache.commons'
     }

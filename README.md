@@ -27,7 +27,7 @@ Integration Steps
 2. Add the dependency in your application module's build.gradle
 ```gradle
   dependencies {
-   implementation('com.eightsquarei.eremit:eremitsdk:0.0.1-alpha2') {
+   implementation('com.eightsquarei.eremit:eremitsdk:0.0.1-alpha18') {
        exclude group: 'com.google.zxing'
        exclude group: 'org.apache.commons'
     }
